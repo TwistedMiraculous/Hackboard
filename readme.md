@@ -1,4 +1,4 @@
-# Trigger Pad
+# Trigger Board
 
 After creating my Hackpad, creating a keyboard was a breeze. I wanted to make a small keyboard that contained minimal yet important keys excluding the function keys. This time I wanted the case to be see through and be printed with acrylic.
 
